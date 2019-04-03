@@ -1,2 +1,2 @@
-# VR-Viz
-An Immersive Data Visualization platform for Los Angeles.
+# DataVR
+An Immersive Data Visualization platform for Emerging Cities.
