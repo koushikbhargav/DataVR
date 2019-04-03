@@ -1,2 +1,2 @@
 # DataVR
-An Immersive Data Visualization platform for Emerging Cities.
+An Immersive Data Visualization platform for emerging Cities.
